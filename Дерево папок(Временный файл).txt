@@ -1,0 +1,15 @@
+Language
+	HelloWorld!
+	DataStructure
+	DataType
+	Algorithms
+	Practice
+		Basic
+			Calculator
+			TicTackToe
+			GuessNumber
+			TableMathOperation(Кварат,куб,корень,факториал)
+		Easy
+		Medium
+		Hard
+		

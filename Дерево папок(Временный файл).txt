@@ -5,11 +5,14 @@ Language
 	Algorithms
 	Practice
 		Basic
-			Calculator
-			TicTackToe
-			GuessNumber
-			TableMathOperation(Кварат,куб,корень,факториал)
+			Calculator.java
+			TicTackToe.java
+			GuessNumber.java
+			TableMathOperation.java(Кварат,куб,корень,факториал)
+			SimulatorDice.java
+			InfoEncoding.java
 		Easy
+			KeyboardTyping​Trainer.java
 		Medium
 		Hard
 		
